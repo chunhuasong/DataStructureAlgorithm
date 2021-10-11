@@ -1,5 +1,6 @@
 package ScannerDemo;
 import java.util.*;
+//键盘输入
 public class ScannerDemo {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
