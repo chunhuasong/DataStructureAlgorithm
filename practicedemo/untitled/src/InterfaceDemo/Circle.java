@@ -11,10 +11,8 @@ public class Circle {
     public double getRadius(){
         return r;
     }
+
     public Circle(double r) {
-        super();
-        this.r=r;
+        this.r = r;
     }
-
-
 }

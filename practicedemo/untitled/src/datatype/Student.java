@@ -18,5 +18,7 @@ public class Student extends Person{
         Student student=new Student("haha",12,"ucl");
         //student.school="ucl";
         System.out.println(student.getInfo());
+
+        Person p = new Student("b",12, "j");
     }
 }

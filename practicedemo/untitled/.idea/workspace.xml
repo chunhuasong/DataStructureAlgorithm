@@ -30,37 +30,26 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="E:/gitcode/vhr-master/vhr-master" />
+    <property name="last_opened_file_path" value="E:/a_qm/学习资料/java/课件笔记源码资料/新建文件夹/4_代码/第1部分：Java基础编程/day06-day18：Eclipse/day06-day18：Eclipse/workspace0105/day16" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="InterfaceDemo" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.duotai">
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
-      <module name="hello" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="duotai (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="duotai" />
-      <module name="hello" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="duotai" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class1.duotai" />
+  <component name="RunManager" selected="Application.TestInterface">
+    <configuration name="Manager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AbstractDemo.Manager" />
       <module name="hello" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class1.*" />
+          <option name="PATTERN" value="AbstractDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="thisDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thisDemo.thisDemo3" />
+    <configuration name="PayrollSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="duotaiDemo.PayrollSystem" />
       <module name="hello" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thisDemo.*" />
+          <option name="PATTERN" value="duotaiDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +70,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="thisDemo3_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thisDemo.thisDemo3_2" />
+    <configuration name="RandomAccessFileDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Io.RandomAccessFileDemo" />
       <module name="hello" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thisDemo.*" />
+          <option name="PATTERN" value="Io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterfaceDemo.TestInterface" />
+      <module name="hello" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InterfaceDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fileStreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Io.fileStreamTest" />
+      <module name="hello" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.duotai" />
-        <item itemvalue="Application.duotai (1)" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.thisDemo3_2" />
-        <item itemvalue="Application.thisDemo3" />
+        <item itemvalue="Application.TestInterface" />
+        <item itemvalue="Application.PayrollSystem" />
+        <item itemvalue="Application.RandomAccessFileDemo" />
+        <item itemvalue="Application.fileStreamTest" />
+        <item itemvalue="Application.Manager" />
       </list>
     </recent_temporary>
   </component>
@@ -119,7 +134,8 @@
       <workItem from="1630372144220" duration="13978000" />
       <workItem from="1630392351388" duration="34799000" />
       <workItem from="1630637532891" duration="8513000" />
-      <workItem from="1631168988931" duration="67223000" />
+      <workItem from="1631168988931" duration="96564000" />
+      <workItem from="1634015920643" duration="11661000" />
     </task>
     <servers />
   </component>
@@ -131,10 +147,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="0" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1630372404585" />
-    <state x="120" y="50" key="#com.intellij.ide.util.MemberChooser" timestamp="1633764943654">
+    <state x="120" y="50" key="#com.intellij.ide.util.MemberChooser" timestamp="1634027932779">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="120" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1633764943654" />
+    <state x="120" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1634027932779" />
     <state x="425" y="226" width="431" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1630465298514">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -143,61 +159,65 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="355" y="52" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1280.680@0.0.1280.680" timestamp="1630482360747" />
-    <state x="377" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1630549693919">
+    <state x="377" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1633921836651">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="377" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1630549693919" />
-    <state x="132" y="108" key="FileChooserDialogImpl" timestamp="1631583970806">
+    <state x="377" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1633921836651" />
+    <state x="132" y="108" key="FileChooserDialogImpl" timestamp="1634024949473">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="132" y="108" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1631583970806" />
-    <state width="1237" height="166" key="GridCell.Tab.0.bottom" timestamp="1633768868102">
+    <state x="132" y="108" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1634024949473" />
+    <state width="1237" height="204" key="GridCell.Tab.0.bottom" timestamp="1634027950958">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="166" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1633768868102" />
-    <state width="1237" height="166" key="GridCell.Tab.0.center" timestamp="1633768868102">
+    <state width="1237" height="204" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1634027950958" />
+    <state width="1237" height="204" key="GridCell.Tab.0.center" timestamp="1634027950958">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="166" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1633768868102" />
-    <state width="1237" height="166" key="GridCell.Tab.0.left" timestamp="1633768868101">
+    <state width="1237" height="204" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1634027950958" />
+    <state width="1237" height="204" key="GridCell.Tab.0.left" timestamp="1634027950958">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="166" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1633768868101" />
-    <state width="1237" height="166" key="GridCell.Tab.0.right" timestamp="1633768868102">
+    <state width="1237" height="204" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1634027950958" />
+    <state width="1237" height="204" key="GridCell.Tab.0.right" timestamp="1634027950958">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="166" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1633768868102" />
-    <state width="597" height="204" key="GridCell.Tab.1.bottom" timestamp="1633767327666">
+    <state width="1237" height="204" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1634027950958" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1634027950853">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="597" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1633767327666" />
-    <state width="597" height="204" key="GridCell.Tab.1.center" timestamp="1633767327666">
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1634027950853" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1634027950853">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="597" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1633767327666" />
-    <state width="597" height="204" key="GridCell.Tab.1.left" timestamp="1633767327666">
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1634027950853" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1634027950853">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="597" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1633767327666" />
-    <state width="597" height="204" key="GridCell.Tab.1.right" timestamp="1633767327666">
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1634027950853" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1634027950853">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="597" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1633767327666" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1634027950853" />
     <state x="443" y="207" key="com.intellij.ide.util.TipDialog" timestamp="1630637538902">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="443" y="207" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1630637538902" />
-    <state x="0" y="0" width="640" height="680" key="find.popup" timestamp="1633740294769">
+    <state x="371" y="106" key="extract.method.dialog" timestamp="1633938750199">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="0" y="0" width="640" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1633740294769" />
+    <state x="371" y="106" key="extract.method.dialog/0.0.1280.680@0.0.1280.680" timestamp="1633938750199" />
+    <state x="0" y="0" width="640" height="680" key="find.popup" timestamp="1633914311982">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" width="640" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1633914311982" />
     <state x="-7" y="0" width="899" height="680" key="new project wizard" timestamp="1630562083603">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="-7" y="0" width="899" height="680" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1630562083603" />
-    <state x="371" y="27" width="672" height="678" key="search.everywhere.popup" timestamp="1633756256435">
+    <state x="371" y="27" width="672" height="678" key="search.everywhere.popup" timestamp="1634028020409">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="371" y="27" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1633756256435" />
+    <state x="371" y="27" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1634028020409" />
   </component>
 </project>
