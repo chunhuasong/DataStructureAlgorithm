@@ -1,2 +1,0 @@
-package JavaSenior.ThreadDemo;
-
