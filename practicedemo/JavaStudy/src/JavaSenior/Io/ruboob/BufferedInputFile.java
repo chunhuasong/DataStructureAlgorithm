@@ -1,4 +1,4 @@
-package JavaSenior.Io;
+package JavaSenior.Io.ruboob;
 import java.io.*;
 public class BufferedInputFile {
     public static void
