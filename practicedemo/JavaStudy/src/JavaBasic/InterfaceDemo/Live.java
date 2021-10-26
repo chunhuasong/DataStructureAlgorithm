@@ -7,6 +7,8 @@ public class Live {
         t.m1(p);
         t.m2(p);
         t.m3(p);
+
+        Runner r = p.getrunner();
     }
     public void  m1(Runner f) {
         f.run();
