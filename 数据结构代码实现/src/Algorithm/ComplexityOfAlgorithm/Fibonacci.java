@@ -1,4 +1,4 @@
-package ComplexityOfAlgorithm;
+package Algorithm.ComplexityOfAlgorithm;
 
 import org.junit.Test;
 
