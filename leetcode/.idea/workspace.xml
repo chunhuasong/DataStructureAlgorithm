@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c723d0f-4fe3-46f5-a95f-19c42991584b" name="Default Changelist" comment="" />
+    <list default="true" id="2c723d0f-4fe3-46f5-a95f-19c42991584b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../数据结构代码实现/src/Algorithm/Sort/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数据结构代码实现/src/Algorithm/Sort/SimpleSelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数据结构代码实现/src/Algorithm/Sort/StraightInsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数据结构代码实现/src/listDemo/doubleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/easy/twosum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/twosum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据结构代码实现/out/production/数据结构/ComplexityOfAlgorithm/Fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据结构代码实现/src/ComplexityOfAlgorithm/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/../数据结构代码实现/src/Algorithm/ComplexityOfAlgorithm/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据结构代码实现/src/listDemo/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../数据结构代码实现/src/listDemo/MyList.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,6 +97,7 @@
       <workItem from="1631949376769" duration="3652000" />
       <workItem from="1635398936325" duration="4624000" />
       <workItem from="1635405433426" duration="371000" />
+      <workItem from="1635473263307" duration="2391000" />
     </task>
     <servers />
   </component>

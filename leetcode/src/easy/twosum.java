@@ -33,6 +33,8 @@ public class twosum {
 //两层循环
     public int[] twoSum(int[] nums, int target) {
         int[] result = new int[]{};
+
+
         for(int i = 0;i < nums.length-1;i++){
             for(int j = i+1;j < nums.length;j++){
                 if(target - nums[i] == nums[j]){
@@ -44,6 +46,22 @@ public class twosum {
         }
         return result;
     }
+
+
+    //hashmap 把补数当成key 位置当做value
+    public int[] twoSum2(int[] nums, int target){
+        int[] result = new int[]{};
+        HashMap<Integer,Integer> hashMap = new HashMap<>();
+        for(int i = 0;i < nums.length;i++){
+
+            if(hashMap.containsKey(nums[i])){
+                result = new int[]{hashMap.get(nums[i]),i};
+                return result;
+            }
+            hashMap.put(target - nums[i],i);
+        }
+        return null;
+}
 
 
 }
