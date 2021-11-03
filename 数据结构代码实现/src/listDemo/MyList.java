@@ -103,6 +103,7 @@ public class MyList<E> implements List<E>{
             for(int j = 1;j < i-1;j++){
                 p = p.next;
             }
+            //p记录tail之前的节点
             p.next = null;
             tail = p;
             size--;
@@ -129,7 +130,7 @@ public class MyList<E> implements List<E>{
         }
         else if( i == size){
             add(data);
-            size++;
+
             return true;
         }
         else {
