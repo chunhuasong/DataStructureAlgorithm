@@ -1,5 +1,5 @@
 package JavaSenior.ThreadDemo;
-
+//匿名子类
 public class AnonymitySubClass extends Thread{
     public void run() {
         for (int i = 0; i < 100; i++) {
