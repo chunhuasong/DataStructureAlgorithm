@@ -1,11 +1,13 @@
 package StackDemo;
+import java.util.*;
 
 public class MyStack<E> implements Operation<E>{
      private int top;
      //top=0 代表有一个元素 top=-1代表空栈
      private int maxSize;
-     private E[] stack;
 
+
+     private Stack<E> stack;
     public MyStack(int maxSize,E[] stack) {
         top = -1;
         this.maxSize = maxSize;

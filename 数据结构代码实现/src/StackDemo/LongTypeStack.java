@@ -4,9 +4,15 @@ public class LongTypeStack {
     private int maxSize;
     private long[] stackArray;
     private int top;
+    private char[] symbol;
     public LongTypeStack(int s) {
         maxSize = s;
         stackArray = new long[maxSize];
+        top = -1;
+    }
+    public LongTypeStack() {
+
+        symbol = new char[100];
         top = -1;
     }
     public void push(long j) {

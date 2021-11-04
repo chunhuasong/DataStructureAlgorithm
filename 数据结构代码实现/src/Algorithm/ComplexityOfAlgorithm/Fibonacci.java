@@ -4,6 +4,7 @@ import org.junit.Test;
 
 
 //T(n) = T(n - 1) + T(n - 2) 是一个斐波那契数列
+//栈的应用 递归
 public class Fibonacci {
     long aFunc(int n){
         if(n <= 1){
